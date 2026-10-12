@@ -6,13 +6,14 @@ Only signed installer builds are published as [Releases](https://github.com/1802
 
 ## Partner Center Package URL
 
-After you upload a release asset named e.g. `GuestLog-Setup.exe` on tag `v1.0.0`, use:
+The current installer is published as `GuestLog-Setup.exe` on tag `v1.0.9`:
 
-`https://github.com/18021985/GuestLog-Releases/releases/download/v1.0.0/GuestLog-Setup.exe`
+`https://github.com/18021985/GuestLog-Releases/releases/download/v1.0.9/GuestLog-Setup.exe`
 
 Installer exit codes: see [INSTALLER-EXIT-CODES.md](INSTALLER-EXIT-CODES.md)
 
-Bump the version folder/tag for each new submission (`v1.0.1`, …).
+Bump the version tag for each new submission. Never commit application databases,
+backups, identity documents, credentials, or other guest data to this repository.
 
 ## Architecture
 
