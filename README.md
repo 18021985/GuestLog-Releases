@@ -6,9 +6,9 @@ Only signed installer builds are published as [Releases](https://github.com/1802
 
 ## Partner Center Package URL
 
-The current installer is published as `GuestLog-Setup.exe` on tag `v1.0.9`:
+The current installer is published as `GuestLog-Setup.exe` on tag `v1.0.10`:
 
-`https://github.com/18021985/GuestLog-Releases/releases/download/v1.0.9/GuestLog-Setup.exe`
+`https://github.com/18021985/GuestLog-Releases/releases/download/v1.0.10/GuestLog-Setup.exe`
 
 Installer exit codes: see [INSTALLER-EXIT-CODES.md](INSTALLER-EXIT-CODES.md)
 
